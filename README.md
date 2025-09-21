@@ -1,2 +1,5 @@
 # MetricalTexts
-Metrically analysed versions of Sanskrit texts
+
+This repository contains metrically analysed versions of Sanskrit texts and additional materials
+
+
